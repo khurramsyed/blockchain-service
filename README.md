@@ -33,12 +33,13 @@ npm install express --save
 npm install body-parse --save
 ```
 
-## Testing WebServices
+## Web Service Endpoints 
 
-Two web service operations are available for this project namely:
+Two web service endpoints are available for this project namely:
 - Adding Blocks (POST)
 - Retrieving Blkock (GET)
 You can easily this project using curl or postman .
+
 
 ## Adding a Block 
 You can add a block by providing the data field in a json  as below
